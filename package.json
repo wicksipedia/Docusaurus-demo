@@ -24,7 +24,7 @@
     "title": "^3.5.3"
   },
   "devDependencies": {
-    "@docusaurus/module-type-aliases": "latest",
+    "@docusaurus/module-type-aliases": "^3.5.2",
     "@tinacms/cli": "^1.6.0"
   },
   "browserslist": {

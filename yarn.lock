@@ -2037,7 +2037,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@docusaurus/module-type-aliases@npm:3.5.2, @docusaurus/module-type-aliases@npm:latest":
+"@docusaurus/module-type-aliases@npm:3.5.2, @docusaurus/module-type-aliases@npm:^3.5.2":
   version: 3.5.2
   resolution: "@docusaurus/module-type-aliases@npm:3.5.2"
   dependencies:
@@ -18539,7 +18539,7 @@ __metadata:
   resolution: "tinasaurus@workspace:."
   dependencies:
     "@docusaurus/core": ^3.5.2
-    "@docusaurus/module-type-aliases": latest
+    "@docusaurus/module-type-aliases": ^3.5.2
     "@docusaurus/preset-classic": ^3.5.2
     "@mdx-js/react": ^3.0.1
     "@tinacms/cli": ^1.6.0
